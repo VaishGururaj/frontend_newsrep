@@ -1,3 +1,5 @@
+#The geojson file and the json has the outline map of russian districts (conbined from available resources so could be slightly inaccurate)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
